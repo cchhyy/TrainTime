@@ -1,0 +1,205 @@
+# depslib dependency file v1.0
+1492654875 source:e:\codeblocks\project\traintime\account.cpp
+	"account.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstring>
+	<queue>
+	<windows.h>
+	<sstream>
+	"menu.h"
+	"time.h"
+
+1491476028 e:\codeblocks\project\traintime\account.h
+	<string>
+
+1491114360 e:\codeblocks\project\traintime\menu.h
+
+1491114400 e:\codeblocks\project\traintime\time.h
+	<string>
+	<cstring>
+
+1492914319 source:e:\codeblocks\project\traintime\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<time.h>
+	<windows.h>
+	"account.h"
+	"train.h"
+	"menu.h"
+
+1492863296 e:\codeblocks\project\traintime\train.h
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	<map>
+	"time.h"
+
+1492911351 source:e:\codeblocks\project\traintime\menu.cpp
+	"menu.h"
+	"time.h"
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1492914063 source:e:\codeblocks\project\traintime\time.cpp
+	"time.h"
+	<iostream>
+	<string>
+	<sstream>
+	<time.h>
+
+1492914189 source:e:\codeblocks\project\traintime\train.cpp
+	"train.h"
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	<fstream>
+	<vector>
+	<set>
+	<map>
+	<algorithm>
+	<cstdlib>
+	<iterator>
+	<windows.h>
+	"time.h"
+	"menu.h"
+
+1491375381 source:c:\documents and settings\administrator\桌面\traintime\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<time.h>
+	<windows.h>
+	"account.h"
+	"train.h"
+	"menu.h"
+
+1491115452 c:\documents and settings\administrator\桌面\traintime\account.h
+	<string>
+
+1491134578 c:\documents and settings\administrator\桌面\traintime\train.h
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	"time.h"
+
+1491114400 c:\documents and settings\administrator\桌面\traintime\time.h
+	<string>
+	<cstring>
+
+1491114360 c:\documents and settings\administrator\桌面\traintime\menu.h
+
+1491130094 source:c:\documents and settings\administrator\桌面\traintime\menu.cpp
+	"menu.h"
+	"time.h"
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1491114514 source:c:\documents and settings\administrator\桌面\traintime\time.cpp
+	"time.h"
+	<iostream>
+	<string>
+	<sstream>
+	<time.h>
+
+1491376580 source:c:\documents and settings\administrator\桌面\traintime\train.cpp
+	"train.h"
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	<fstream>
+	<vector>
+	<windows.h>
+	"time.h"
+	"menu.h"
+
+1491373637 source:c:\documents and settings\administrator\桌面\traintime\account.cpp
+	"account.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstring>
+	<queue>
+	<windows.h>
+	<sstream>
+	"menu.h"
+	"time.h"
+
+1491477278 source:g:\traintime\account.cpp
+	"account.h"
+	<iostream>
+	<fstream>
+	<conio.h>
+	<string>
+	<cstring>
+	<queue>
+	<windows.h>
+	<sstream>
+	"menu.h"
+	"time.h"
+
+1491476028 g:\traintime\account.h
+	<string>
+
+1491114360 g:\traintime\menu.h
+
+1491114400 g:\traintime\time.h
+	<string>
+	<cstring>
+
+1491489146 source:g:\traintime\menu.cpp
+	"menu.h"
+	"time.h"
+	<iostream>
+	<cstdio>
+	<windows.h>
+
+1491114514 source:g:\traintime\time.cpp
+	"time.h"
+	<iostream>
+	<string>
+	<sstream>
+	<time.h>
+
+1491489456 source:g:\traintime\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<time.h>
+	<windows.h>
+	"account.h"
+	"train.h"
+	"menu.h"
+
+1491134578 g:\traintime\train.h
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	"time.h"
+
+1491483168 source:g:\traintime\train.cpp
+	"train.h"
+	<iostream>
+	<string>
+	<cstring>
+	<queue>
+	<fstream>
+	<vector>
+	<windows.h>
+	"time.h"
+	"menu.h"
+
